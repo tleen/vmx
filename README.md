@@ -1,1 +1,3 @@
-# v-module-example
+# VMX
+
+A [v](https://vlang.io) module example.
