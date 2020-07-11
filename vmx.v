@@ -1,8 +1,7 @@
 module vmx
 
-fn init() int {
+fn init() {
 	println('init called')
-	return 1
 }
 
 pub fn hello() {
